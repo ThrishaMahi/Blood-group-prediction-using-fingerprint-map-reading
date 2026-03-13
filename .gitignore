@@ -1,0 +1,9 @@
+dataset/
+model/
+processed/
+static/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
